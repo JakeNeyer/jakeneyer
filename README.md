@@ -4,7 +4,7 @@
 
 ![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakeNeyer&show_icons=true&theme=dracula&count_private=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JakeNeyer&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JakeNeyer&theme=dracula&hide_border=true&count_private=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
